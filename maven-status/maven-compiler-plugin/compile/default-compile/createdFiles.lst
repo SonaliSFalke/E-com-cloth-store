@@ -1,0 +1,13 @@
+com\mycompany\e\com\servlets\LogoutServlet.class
+com\mycompany\e\com\dao\CategoryDao.class
+com\mycompany\e\com\entities\Product.class
+com\mycompany\e\com\servlets\ProductOperationServlet.class
+com\mycompany\e\com\entities\Category.class
+com\mycompany\e\com\JakartaRestConfiguration.class
+com\mycompany\e\com\helper\Hekper.class
+com\mycompany\e\com\servlets\LoginServlet.class
+com\mycompany\e\com\dao\UserDao.class
+com\mycompany\e\com\entities\User.class
+com\mycompany\e\com\servlets\RegisterServlet.class
+com\mycompany\e\com\dao\ProductDao.class
+com\mycompany\e\com\helper\FactoryProvider.class
